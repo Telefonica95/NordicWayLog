@@ -27,7 +27,7 @@
   
   $contact->smtp = array(
     'host' => 'smtp.office365.com',
-    'username' => 'booking@nordicwaylog.com ',
+    'username' => 'info@nordicwaylog.com ',
     'password' => 'nordicway!2020',
     'port' => '587',
     'SMTPAuth' =>true,
